@@ -30,6 +30,7 @@ exec --no-startup-id qv2ray
 exec --no-startup-id polybar
 exec --no-startup-id albert
 exec --no-startup-id caffeine
+
 # Use Mouse+$mod to drag floating windows
 floating_modifier $mod
 
