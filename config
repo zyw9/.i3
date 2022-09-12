@@ -205,7 +205,7 @@ assign [class="Thunderbird"] $ws5
 # assign [class="Pale moon"] $ws2
 # assign [class="Pcmanfm"] $ws3
 # assign [class="Skype"] $ws5
-assign [class="google-chrome-stable"] $ws2
+assign [class="google-chrome"] $ws2
 
 # Open specific applications in floating mode
 for_window [title="alsamixer"] floating enable border pixel 1
